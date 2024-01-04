@@ -24,6 +24,19 @@ Number of words in the Full Name and Description Length
 
 This repo contains the python code to train and assess the model, the training dataset used, the testing dataset used, scraped data on WIRL and predictions based on applications of results. 
 
+# Fake Instagram Detection Using ANNs Skeleton (2) (2).ipynb:
+  Main Jupyter Notebook
+
+# Final Scraped Data.csv
+  Data scraped on WIRL using PhantomBuster
+
+# final wrangled data.csv
+  Wrangled data to fit training data format
+
+# predictions.csv
+  Final results of applying the neural network on WIRL's transformed data
+
+
 
 
 
