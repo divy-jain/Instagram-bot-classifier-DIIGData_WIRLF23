@@ -10,7 +10,8 @@ Implemented in the context of analyzing Wellness in Real Life (WIRL)'s instagram
 
 Used PhantomBuster (publicly available chrome extension) to scrape information about WIRL's 7748 followers on instagram. Obtained comprehensive dataset on follower information with 29 features and 225,000 data points. Wrangled scraped dataset to fit the data format the neural network was trained on. 
 
-Some of these transformations included:
+Some of these transformations included:![image](https://github.com/divy-jain/Instagram-bot-classifier-DIIGData_WIRLF23/assets/112353844/f555997f-3fd0-45b7-808f-ab4fb4a0b2b4)
+
 
 Binary indicators to check:
 If the full name and username are identical.
