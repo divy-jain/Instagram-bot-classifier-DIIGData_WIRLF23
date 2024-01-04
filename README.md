@@ -2,7 +2,7 @@
 Python based neural network classifying instagram user profiles as real IDs or spam/bot IDs.
 
 
-Machine learning model classifying instagram profiles as real or spam. Neural network implemented with input layer, 4 Dense layers, 3 dropout layers and a softmax-activated output layer. Trained on training dataset of ~600 Instagram IDs. Data used in training the model includes columns: profile_pic (boolean),nums/length username,fullname words,nums/length fullname,name==username (boolean),description length,external URL,private (boolean),#posts,#followers,#follows,fake(boolean). Referenced from Ryan Ahmed, Ph.D. through Coursera. Tested using custom dataset acquired through Coursera of 120 Instagram IDs with an accuracy of 88%. 
+Machine learning model classifying instagram profiles as real or spam. Neural network implemented with input layer, 4 Dense layers, 3 dropout layers and a softmax-activated output layer. Trained on training dataset of ~600 Instagram IDs. Data used in training the model includes columns: profile_pic (boolean),nums/length username,fullname words,nums/length fullname,name==username (boolean),description length,external URL,private (boolean),#posts,#followers,#follows,fake(boolean). Referenced from Ryan Ahmed, Ph.D. through Coursera. Tested using custom dataset acquired through kaggle of 120 Instagram IDs with an accuracy of 88%. 
 
 Complete Python script providing code for EDA, visualizations, creating the model, training the model, assessing performance etc.
 
